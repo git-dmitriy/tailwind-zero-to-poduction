@@ -1,0 +1,26 @@
+{
+  "name": "tailwind-zero-to-poduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite serve src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-dmitriy/tailwind-zero-to-poduction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-dmitriy/tailwind-zero-to-poduction/issues"
+  },
+  "homepage": "https://github.com/git-dmitriy/tailwind-zero-to-poduction#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4",
+    "vite": "^2.4.0"
+  }
+}
