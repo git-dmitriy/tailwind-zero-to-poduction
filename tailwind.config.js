@@ -1,5 +1,10 @@
 module.exports = {
-  purge: ['./src/**.jsx', './index.html'],
+  purge: {
+    content: ['./src/**.jsx', './index.html'],
+    options: {
+      // safelist: ['some'],
+    },
+  },
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
