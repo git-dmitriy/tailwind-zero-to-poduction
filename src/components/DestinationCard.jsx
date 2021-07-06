@@ -18,7 +18,7 @@ export default function DestinationCard({ destination }) {
         </p>
         <div className='mt-4'>
           <a
-            href='#'
+            href='#!'
             className='text-brand-dark hover:text-brand transition-colors font-semibold text-sm'
           >
             Explore {destination.propertyCount} properties

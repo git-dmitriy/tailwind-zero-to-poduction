@@ -15,7 +15,7 @@ export default function App() {
               src='/img/beach-work.jpg'
               alt='Woman workcationing on the beach'
             />
-            <h1 className='mt-6 text-2xl font-bold text-gray-900 sm:mt-8 sm:text-4xl lg:text-3xl xl:text-4xl'>
+            <h1 className='mt-6 text-2xl font-semibold font-headline tracking-tight text-gray-900 sm:mt-8 sm:text-4xl lg:text-3xl xl:text-4xl'>
               You can work from anywhere.
               <br className='hidden lg:inline' />{' '}
               <span className='text-brand'>Take advantage of it.</span>
@@ -28,7 +28,7 @@ export default function App() {
             <div className='mt-4 space-x-1 sm:mt-6'>
               <a
                 className='inline-block px-5 py-3 rounded-lg transform transition bg-brand hover:bg-brand-light hover:-translate-y-0.5 focus:ring-brand-light focus:ring-opacity-50 focus:outline-none focus:ring focus:ring-offset-2 active:bg-brand-dark uppercase tracking-wider font-semibold text-sm text-white shadow-lg sm:text-base'
-                href='#'
+                href='#!'
               >
                 Book your escape
               </a>

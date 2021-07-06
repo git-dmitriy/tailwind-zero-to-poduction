@@ -10,6 +10,9 @@ module.exports = {
           dark: '#0c87b8',
         },
       },
+      fontFamily: {
+        headline: 'Poppins, sans-serif',
+      },
     },
   },
   variants: {
